@@ -1,0 +1,22 @@
+name: my_env
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - pytorch=2.3.0
+  - torchaudio=2.3.0
+  - pytorch-cuda=12.1
+  - ipywidgets
+  - jupyter
+  - pip
+  - pip:
+    - gdown
+    - matplotlib==3.8.4
+    - deepfilternet
+    - pandas==2.2.2
+    - audiomentations==0.36.0
+    - soundfile
+    - gradio==4.37.2
+    - speechbrain
+    - transformers==4.42.3
