@@ -1,0 +1,473 @@
+2024-07-01 07:45:44 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-01 07:45:44 | INFO     | DF | Running on host cvlab
+2024-07-01 07:45:44 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 07:46:11 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 07:46:54 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 07:46:54 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 07:46:54 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 07:46:54 | INFO     | DF | Running on device cuda:0
+2024-07-01 07:46:54 | INFO     | DF | Model loaded
+2024-07-01 09:02:20 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-01 09:02:20 | INFO     | DF | Running on host cvlab
+2024-07-01 09:02:20 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 09:02:20 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 09:02:20 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 09:02:20 | INFO     | DF | Running on device cuda:0
+2024-07-01 09:02:20 | INFO     | DF | Model loaded
+2024-07-01 09:27:23 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-01 09:27:23 | INFO     | DF | Running on host cvlab
+2024-07-01 09:27:23 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 09:27:23 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 09:27:23 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 09:27:24 | INFO     | DF | Running on device cuda:0
+2024-07-01 09:27:24 | INFO     | DF | Model loaded
+2024-07-01 09:45:21 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-01 09:45:21 | INFO     | DF | Running on host cvlab
+2024-07-01 09:45:21 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 09:45:21 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 09:45:22 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 09:45:22 | INFO     | DF | Running on device cuda:0
+2024-07-01 09:45:22 | INFO     | DF | Model loaded
+2024-07-01 10:20:18 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-01 10:20:18 | INFO     | DF | Running on host cvlab
+2024-07-01 10:20:18 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 10:20:18 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 10:20:18 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 10:20:18 | INFO     | DF | Running on device cuda:0
+2024-07-01 10:20:18 | INFO     | DF | Model loaded
+2024-07-01 10:20:59 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 10:20:59 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 10:20:59 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 10:20:59 | INFO     | DF | Running on device cuda:0
+2024-07-01 10:20:59 | INFO     | DF | Model loaded
+2024-07-01 10:22:08 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-01 10:22:08 | INFO     | DF | Running on host cvlab
+2024-07-01 10:22:08 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 10:22:08 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 10:22:09 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 10:22:09 | INFO     | DF | Running on device cuda:0
+2024-07-01 10:22:09 | INFO     | DF | Model loaded
+2024-07-01 10:24:51 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-01 10:24:51 | INFO     | DF | Running on host cvlab
+2024-07-01 10:24:51 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 10:24:51 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 10:24:52 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 10:24:52 | INFO     | DF | Running on device cuda:0
+2024-07-01 10:24:52 | INFO     | DF | Model loaded
+2024-07-01 10:25:44 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 10:25:44 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 10:25:44 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 10:25:44 | INFO     | DF | Running on device cuda:0
+2024-07-01 10:25:44 | INFO     | DF | Model loaded
+2024-07-01 10:25:50 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 10:25:50 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 10:25:51 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 10:25:51 | INFO     | DF | Running on device cuda:0
+2024-07-01 10:25:51 | INFO     | DF | Model loaded
+2024-07-01 10:27:11 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-01 10:27:11 | INFO     | DF | Running on host cvlab
+2024-07-01 10:27:11 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 10:27:11 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 10:27:11 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 10:27:12 | INFO     | DF | Running on device cuda:0
+2024-07-01 10:27:12 | INFO     | DF | Model loaded
+2024-07-01 10:27:49 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 10:27:49 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 10:27:49 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 10:27:49 | INFO     | DF | Running on device cuda:0
+2024-07-01 10:27:49 | INFO     | DF | Model loaded
+2024-07-01 10:27:56 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 10:27:56 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 10:27:56 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 10:27:56 | INFO     | DF | Running on device cuda:0
+2024-07-01 10:27:56 | INFO     | DF | Model loaded
+2024-07-01 10:30:17 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-01 10:30:17 | INFO     | DF | Running on host cvlab
+2024-07-01 10:30:17 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 10:30:17 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 10:30:17 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 10:30:17 | INFO     | DF | Running on device cuda:0
+2024-07-01 10:30:17 | INFO     | DF | Model loaded
+2024-07-01 10:34:09 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-01 10:34:09 | INFO     | DF | Running on host cvlab
+2024-07-01 10:34:09 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 10:34:09 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 10:34:09 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 10:34:09 | INFO     | DF | Running on device cuda:0
+2024-07-01 10:34:09 | INFO     | DF | Model loaded
+2024-07-01 10:43:54 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-01 10:43:54 | INFO     | DF | Running on host cvlab
+2024-07-01 10:43:54 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 10:43:54 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 10:43:55 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 10:43:55 | INFO     | DF | Running on device cuda:0
+2024-07-01 10:43:55 | INFO     | DF | Model loaded
+2024-07-01 10:44:27 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-01 10:44:27 | INFO     | DF | Running on host cvlab
+2024-07-01 10:44:27 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 10:44:27 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 10:44:27 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 10:44:27 | INFO     | DF | Running on device cuda:0
+2024-07-01 10:44:27 | INFO     | DF | Model loaded
+2024-07-01 10:44:36 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 10:44:36 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 10:44:36 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 10:44:36 | INFO     | DF | Running on device cuda:0
+2024-07-01 10:44:36 | INFO     | DF | Model loaded
+2024-07-01 11:07:49 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-01 11:07:49 | INFO     | DF | Running on host cvlab
+2024-07-01 11:07:49 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 11:07:49 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 11:07:49 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 11:07:49 | INFO     | DF | Running on device cuda:0
+2024-07-01 11:07:49 | INFO     | DF | Model loaded
+2024-07-01 11:09:30 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 11:09:30 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 11:09:30 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 11:09:30 | INFO     | DF | Running on device cuda:0
+2024-07-01 11:09:30 | INFO     | DF | Model loaded
+2024-07-01 11:09:34 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 11:09:34 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 11:09:34 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 11:09:34 | INFO     | DF | Running on device cuda:0
+2024-07-01 11:09:34 | INFO     | DF | Model loaded
+2024-07-01 11:12:51 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 11:12:51 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 11:12:51 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 11:12:51 | INFO     | DF | Running on device cuda:0
+2024-07-01 11:12:51 | INFO     | DF | Model loaded
+2024-07-01 11:14:11 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 11:14:11 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 11:14:11 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 11:14:11 | INFO     | DF | Running on device cuda:0
+2024-07-01 11:14:11 | INFO     | DF | Model loaded
+2024-07-01 11:15:52 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 11:15:52 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 11:15:52 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 11:15:52 | INFO     | DF | Running on device cuda:0
+2024-07-01 11:15:52 | INFO     | DF | Model loaded
+2024-07-01 11:20:31 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 11:20:31 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 11:20:31 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 11:20:31 | INFO     | DF | Running on device cuda:0
+2024-07-01 11:20:31 | INFO     | DF | Model loaded
+2024-07-01 11:21:29 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 11:21:29 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 11:21:29 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 11:21:29 | INFO     | DF | Running on device cuda:0
+2024-07-01 11:21:29 | INFO     | DF | Model loaded
+2024-07-01 11:21:53 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 11:21:53 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 11:21:53 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 11:21:53 | INFO     | DF | Running on device cuda:0
+2024-07-01 11:21:53 | INFO     | DF | Model loaded
+2024-07-01 11:22:30 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 11:22:30 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 11:22:30 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 11:22:30 | INFO     | DF | Running on device cuda:0
+2024-07-01 11:22:30 | INFO     | DF | Model loaded
+2024-07-01 11:23:19 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 11:23:19 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 11:23:20 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 11:23:20 | INFO     | DF | Running on device cuda:0
+2024-07-01 11:23:20 | INFO     | DF | Model loaded
+2024-07-01 11:28:15 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 11:28:15 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 11:28:15 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 11:28:15 | INFO     | DF | Running on device cuda:0
+2024-07-01 11:28:15 | INFO     | DF | Model loaded
+2024-07-01 11:28:50 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 11:28:50 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 11:28:50 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 11:28:50 | INFO     | DF | Running on device cuda:0
+2024-07-01 11:28:50 | INFO     | DF | Model loaded
+2024-07-01 11:29:13 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 11:29:13 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 11:29:13 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 11:29:13 | INFO     | DF | Running on device cuda:0
+2024-07-01 11:29:13 | INFO     | DF | Model loaded
+2024-07-01 11:29:30 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 11:29:30 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 11:29:30 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 11:29:30 | INFO     | DF | Running on device cuda:0
+2024-07-01 11:29:30 | INFO     | DF | Model loaded
+2024-07-01 11:30:07 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 11:30:07 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 11:30:07 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 11:30:07 | INFO     | DF | Running on device cuda:0
+2024-07-01 11:30:07 | INFO     | DF | Model loaded
+2024-07-01 11:30:45 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 11:30:45 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 11:30:45 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 11:30:45 | INFO     | DF | Running on device cuda:0
+2024-07-01 11:30:45 | INFO     | DF | Model loaded
+2024-07-01 11:31:21 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 11:31:21 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 11:31:21 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 11:31:21 | INFO     | DF | Running on device cuda:0
+2024-07-01 11:31:21 | INFO     | DF | Model loaded
+2024-07-01 11:31:46 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 11:31:46 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 11:31:46 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 11:31:46 | INFO     | DF | Running on device cuda:0
+2024-07-01 11:31:46 | INFO     | DF | Model loaded
+2024-07-01 11:33:09 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 11:33:09 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 11:33:10 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 11:33:10 | INFO     | DF | Running on device cuda:0
+2024-07-01 11:33:10 | INFO     | DF | Model loaded
+2024-07-01 11:34:13 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 11:34:13 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 11:34:14 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 11:34:14 | INFO     | DF | Running on device cuda:0
+2024-07-01 11:34:14 | INFO     | DF | Model loaded
+2024-07-01 11:34:26 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 11:34:26 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 11:34:26 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 11:34:26 | INFO     | DF | Running on device cuda:0
+2024-07-01 11:34:26 | INFO     | DF | Model loaded
+2024-07-01 11:34:55 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 11:34:55 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 11:34:55 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 11:34:55 | INFO     | DF | Running on device cuda:0
+2024-07-01 11:34:55 | INFO     | DF | Model loaded
+2024-07-01 11:35:15 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 11:35:15 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 11:35:16 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 11:35:16 | INFO     | DF | Running on device cuda:0
+2024-07-01 11:35:16 | INFO     | DF | Model loaded
+2024-07-01 14:31:00 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-01 14:31:00 | INFO     | DF | Running on host cvlab
+2024-07-01 14:31:00 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 14:31:00 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 14:31:01 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 14:31:01 | INFO     | DF | Running on device cuda:0
+2024-07-01 14:31:01 | INFO     | DF | Model loaded
+2024-07-01 20:36:09 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 20:36:09 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 20:36:09 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 20:36:09 | INFO     | DF | Running on device cuda:0
+2024-07-01 20:36:09 | INFO     | DF | Model loaded
+2024-07-01 20:37:37 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 20:37:37 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 20:37:37 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 20:37:37 | INFO     | DF | Running on device cuda:0
+2024-07-01 20:37:37 | INFO     | DF | Model loaded
+2024-07-01 21:12:30 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 21:12:30 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 21:12:30 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 21:12:30 | INFO     | DF | Running on device cuda:0
+2024-07-01 21:12:30 | INFO     | DF | Model loaded
+2024-07-01 21:13:00 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 21:13:00 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 21:13:00 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 21:13:00 | INFO     | DF | Running on device cuda:0
+2024-07-01 21:13:00 | INFO     | DF | Model loaded
+2024-07-01 21:50:45 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-01 21:50:45 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-01 21:50:45 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-01 21:50:45 | INFO     | DF | Running on device cuda:0
+2024-07-01 21:50:45 | INFO     | DF | Model loaded
+2024-07-02 12:47:06 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-02 12:47:06 | INFO     | DF | Running on host cvlab
+2024-07-02 12:47:06 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-02 12:47:06 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-02 12:47:06 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-02 12:47:06 | INFO     | DF | Running on device cuda:0
+2024-07-02 12:47:06 | INFO     | DF | Model loaded
+2024-07-04 03:19:58 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-04 03:19:58 | INFO     | DF | Running on host cvlab
+2024-07-04 03:19:58 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-04 03:19:58 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-04 03:19:59 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-04 03:19:59 | INFO     | DF | Running on device cuda:0
+2024-07-04 03:19:59 | INFO     | DF | Model loaded
+2024-07-04 03:20:31 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-04 03:20:31 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-04 03:20:31 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-04 03:20:31 | INFO     | DF | Running on device cuda:0
+2024-07-04 03:20:31 | INFO     | DF | Model loaded
+2024-07-04 03:20:50 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-04 03:20:50 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-04 03:20:50 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-04 03:20:50 | INFO     | DF | Running on device cuda:0
+2024-07-04 03:20:50 | INFO     | DF | Model loaded
+2024-07-04 03:21:45 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-04 03:21:45 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-04 03:21:45 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-04 03:21:45 | INFO     | DF | Running on device cuda:0
+2024-07-04 03:21:45 | INFO     | DF | Model loaded
+2024-07-06 22:32:47 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-06 22:32:47 | INFO     | DF | Running on host cvlab
+2024-07-06 22:32:47 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-06 22:32:47 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-06 22:32:47 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-06 22:32:47 | INFO     | DF | Running on device cuda:0
+2024-07-06 22:32:47 | INFO     | DF | Model loaded
+2024-07-06 22:40:52 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-06 22:40:52 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-06 22:40:52 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-06 22:40:52 | INFO     | DF | Running on device cuda:0
+2024-07-06 22:40:52 | INFO     | DF | Model loaded
+2024-07-06 22:45:33 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-06 22:45:33 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-06 22:45:33 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-06 22:45:33 | INFO     | DF | Running on device cuda:0
+2024-07-06 22:45:33 | INFO     | DF | Model loaded
+2024-07-06 22:46:07 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-06 22:46:07 | INFO     | DF | Running on host cvlab
+2024-07-06 22:46:08 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-06 22:46:08 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-06 22:46:08 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-06 22:46:08 | INFO     | DF | Running on device cuda:0
+2024-07-06 22:46:08 | INFO     | DF | Model loaded
+2024-07-07 04:25:03 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-07 04:25:03 | INFO     | DF | Running on host cvlab
+2024-07-07 04:25:03 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-07 04:25:03 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-07 04:25:03 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-07 04:25:03 | INFO     | DF | Running on device cuda:0
+2024-07-07 04:25:03 | INFO     | DF | Model loaded
+2024-07-07 04:28:30 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-07 04:28:30 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-07 04:28:30 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-07 04:28:30 | INFO     | DF | Running on device cuda:0
+2024-07-07 04:28:30 | INFO     | DF | Model loaded
+2024-07-07 04:31:02 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-07 04:31:02 | INFO     | DF | Running on host cvlab
+2024-07-07 04:31:02 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-07 04:31:02 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-07 04:31:03 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-07 04:31:03 | INFO     | DF | Running on device cuda:0
+2024-07-07 04:31:03 | INFO     | DF | Model loaded
+2024-07-07 04:31:10 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-07 04:31:10 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-07 04:31:10 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-07 04:31:10 | INFO     | DF | Running on device cuda:0
+2024-07-07 04:31:10 | INFO     | DF | Model loaded
+2024-07-07 04:31:19 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-07 04:31:19 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-07 04:31:19 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-07 04:31:19 | INFO     | DF | Running on device cuda:0
+2024-07-07 04:31:19 | INFO     | DF | Model loaded
+2024-07-07 04:31:33 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-07 04:31:33 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-07 04:31:33 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-07 04:31:33 | INFO     | DF | Running on device cuda:0
+2024-07-07 04:31:33 | INFO     | DF | Model loaded
+2024-07-07 04:31:41 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-07 04:31:41 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-07 04:31:41 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-07 04:31:41 | INFO     | DF | Running on device cuda:0
+2024-07-07 04:31:41 | INFO     | DF | Model loaded
+2024-07-07 04:32:26 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-07 04:32:26 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-07 04:32:26 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-07 04:32:26 | INFO     | DF | Running on device cuda:0
+2024-07-07 04:32:26 | INFO     | DF | Model loaded
+2024-07-07 04:36:39 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-07 04:36:39 | INFO     | DF | Running on host cvlab
+2024-07-07 04:36:39 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-07 04:36:39 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-07 04:36:39 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-07 04:36:39 | INFO     | DF | Running on device cuda:0
+2024-07-07 04:36:39 | INFO     | DF | Model loaded
+2024-07-09 02:47:58 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-09 02:47:58 | INFO     | DF | Running on host cvlab
+2024-07-09 02:47:58 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-09 02:47:58 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-09 02:47:59 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-09 02:47:59 | INFO     | DF | Running on device cuda:0
+2024-07-09 02:47:59 | INFO     | DF | Model loaded
+2024-07-09 03:59:11 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-09 03:59:11 | INFO     | DF | Running on host cvlab
+2024-07-09 03:59:11 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-09 03:59:11 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-09 03:59:11 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-09 03:59:11 | INFO     | DF | Running on device cuda:0
+2024-07-09 03:59:11 | INFO     | DF | Model loaded
+2024-07-09 04:06:43 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-09 04:06:43 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-09 04:06:43 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-09 04:06:43 | INFO     | DF | Running on device cuda:0
+2024-07-09 04:06:43 | INFO     | DF | Model loaded
+2024-07-13 14:50:32 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-13 14:50:32 | INFO     | DF | Running on host cvlab
+2024-07-13 14:50:32 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-13 14:50:32 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-13 14:50:33 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-13 14:50:33 | INFO     | DF | Running on device cuda:0
+2024-07-13 14:50:33 | INFO     | DF | Model loaded
+2024-07-13 14:58:45 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-13 14:58:45 | INFO     | DF | Running on host cvlab
+2024-07-13 14:58:45 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-13 14:58:45 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-13 14:58:46 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-13 14:58:46 | INFO     | DF | Running on device cuda:0
+2024-07-13 14:58:46 | INFO     | DF | Model loaded
+2024-07-13 15:03:19 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-13 15:03:19 | INFO     | DF | Running on host cvlab
+2024-07-13 15:03:19 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-13 15:03:19 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-13 15:03:20 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-13 15:03:20 | INFO     | DF | Running on device cuda:0
+2024-07-13 15:03:20 | INFO     | DF | Model loaded
+2024-07-14 18:26:09 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-14 18:26:09 | INFO     | DF | Running on host cvlab
+2024-07-14 18:26:09 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-14 18:26:09 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-14 18:26:10 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-14 18:26:10 | INFO     | DF | Running on device cuda:0
+2024-07-14 18:26:10 | INFO     | DF | Model loaded
+2024-07-14 18:29:53 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-14 18:29:53 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-14 18:29:53 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-14 18:29:53 | INFO     | DF | Running on device cuda:0
+2024-07-14 18:29:53 | INFO     | DF | Model loaded
+2024-07-14 18:31:26 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-14 18:31:26 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-14 18:31:26 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-14 18:31:26 | INFO     | DF | Running on device cuda:0
+2024-07-14 18:31:26 | INFO     | DF | Model loaded
+2024-07-14 21:59:50 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-14 21:59:50 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-14 21:59:50 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-14 21:59:50 | INFO     | DF | Running on device cuda:0
+2024-07-14 21:59:50 | INFO     | DF | Model loaded
+2024-07-14 22:11:06 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-14 22:11:06 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-14 22:11:06 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-14 22:11:06 | INFO     | DF | Running on device cuda:0
+2024-07-14 22:11:06 | INFO     | DF | Model loaded
+2024-07-14 22:22:41 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-14 22:22:41 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-14 22:22:41 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-14 22:22:41 | INFO     | DF | Running on device cuda:0
+2024-07-14 22:22:41 | INFO     | DF | Model loaded
+2024-07-14 22:33:07 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-14 22:33:07 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-14 22:33:07 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-14 22:33:07 | INFO     | DF | Running on device cuda:0
+2024-07-14 22:33:07 | INFO     | DF | Model loaded
+2024-07-14 22:44:48 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-14 22:44:48 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-14 22:44:48 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-14 22:44:48 | INFO     | DF | Running on device cuda:0
+2024-07-14 22:44:48 | INFO     | DF | Model loaded
+2024-07-14 23:10:19 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-14 23:10:19 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-14 23:10:19 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-14 23:10:19 | INFO     | DF | Running on device cuda:0
+2024-07-14 23:10:19 | INFO     | DF | Model loaded
+2024-07-14 23:13:12 | INFO     | DF | Running on torch 2.3.0+cu121
+2024-07-14 23:13:12 | INFO     | DF | Running on host cvlab
+2024-07-14 23:13:12 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-14 23:13:12 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-14 23:13:13 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-14 23:13:13 | INFO     | DF | Running on device cuda:0
+2024-07-14 23:13:13 | INFO     | DF | Model loaded
+2024-07-14 23:14:01 | INFO     | DF | Loading model settings of DeepFilterNet2
+2024-07-14 23:14:01 | INFO     | DF | Initializing model `deepfilternet2`
+2024-07-14 23:14:01 | INFO     | DF | Found checkpoint ./DeepFilterNet2/checkpoints/model_96.ckpt.best with epoch 96
+2024-07-14 23:14:01 | INFO     | DF | Running on device cuda:0
+2024-07-14 23:14:01 | INFO     | DF | Model loaded
