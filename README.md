@@ -37,6 +37,29 @@ dataset/
 
 ```
 
+## Pre-Trained 출처
+학습에 사용하지는 않지만 전처리에 사용
+
+train, test 모두 독립적으로 이 모델의 inference 결과 1개를 사용. 
+
+https://huggingface.co/spaces/hshr/DeepFilterNet2   (Enhanced Model)
+
+
+
+- train   
+ 독립적으로 화자가 말하고 있는 부분을 segmentation 합니다. 독립적으로 inference를 해 한 파일에 대해 한 segment들(segment는 0~4개 파트가 나옵니다.)을 얻고 그 구간을 crop 하여 데이터로 사용.  
+  
+ segmentation이 감지되지 않았다면 (0,0) 데이터로 사용. segmentation에서 crop 하고 남은 silent 부분은 (0,0) 으로 사용.  
+    
+- test     
+독립적으로 inference인 결과 1개를 얻고 rule-base로 segmentation이 되지 않는다면 (0, 0)으로 제출.     
+   
+https://huggingface.co/speechbrain/vad-crdnn-libriparty  
+
+
+![image](https://github.com/user-attachments/assets/358a0981-4b78-46ec-9583-1b110c4224c6)
+
+  
 ## 개발 환경
 > nvcc: NVIDIA (R) Cuda compiler driver  
 Copyright (c) 2005-2023 NVIDIA Corporation  
